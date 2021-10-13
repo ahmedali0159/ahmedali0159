@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed Ali 👋
 
 
-## MERN Stack Developer
+## Front End Developer
 
 ### Connect with me:
 
